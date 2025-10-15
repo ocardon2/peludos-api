@@ -1,0 +1,6 @@
+@PeludosApi_HostAddress = http://localhost:5069
+
+GET {{PeludosApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
